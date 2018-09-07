@@ -1,0 +1,17 @@
+{
+  "index_score": {
+    "nifty50": 5,
+    "niftynext50": 4.5,
+    "nifty100": 4,
+    "nifty200": 3.5,
+    "nifty500": 3,
+    "niftymidcap50": 3,
+    "niftymidcap100": 2.5,
+    "niftylargemidcap250": 2,
+    "niftymidsmallcap400": 1.5,
+    "niftysmallcap50": 2.5,
+    "niftysmallcap100": 2,
+    "niftysmallcap250": 1,
+    "niftyfullsmallcap100": 1.5
+  }
+}

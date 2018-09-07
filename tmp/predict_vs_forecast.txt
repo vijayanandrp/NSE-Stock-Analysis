@@ -1,0 +1,19 @@
+Prediction: An estimation of any event happening [in the past, present or future] 
+Prediction uses explanatory variables to characterize expected outcome or expected response.
+prediction uses explanatory variables or predictors to characterize expectation.
+Prediction is the generalize term & it's independent of time.
+
+e.g.
+1. Percentage of house owners buying home insurance
+2. Predicting amount spend by user for certain case. It's happen over the period of time but not exact.
+
+
+Forecasting: Is always associated with a time dimension in the future 
+Forecasting is the prediction with time as a one of the dependent variable.
+i.e. estimation for some specific future duration or over a period of time 
+On the other hand, forecasting uses trends in observation to characterize expected outcome or expected response.
+In summary, forecasting uses observed response to characterize expectation
+
+e.g. 
+1. Total sales in July, 2017. Forecasting is a subset of prediction.
+2.  Weather prediction is called forecasting since it's predicted with time as a dependent variable either for quarter or next month etc.
