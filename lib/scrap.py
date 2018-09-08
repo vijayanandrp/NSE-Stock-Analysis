@@ -48,4 +48,3 @@ def download(url, path=None):
     else:
         print('Download failed')
 
-print(page_html(url='https://www.linkedin.com/in/peterghavami/'))
